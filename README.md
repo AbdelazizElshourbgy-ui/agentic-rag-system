@@ -16,8 +16,7 @@ An **Agentic Retrieval-Augmented Generation (RAG)** project built around the **A
 
 - 📓 **Kaggle Notebook:** [Agentic RAG System – AgentEval Evaluation](https://www.kaggle.com/code/abdelazizelshourbgy/agentic-rag-system-agenteval-evaluation)
 - 🚀 **Streamlit demo:** [corrective-rag-system](https://corrective-rag-project.streamlit.app/)
-- 🎥 **Demo Video:** [Add your recorded run/demo video URL here](https://github.com/user-attachments/assets/1ebef0d6-b970-4bb1-aac1-5cecf07ab2f6).
-
+- 🎥 **Demo Video:** https://github.com/user-attachments/assets/1ebef0d6-b970-4bb1-aac1-5cecf07ab2f6
 ## 📸 Demo
 
 ### Streamlit Application
