@@ -15,8 +15,8 @@ An **Agentic Retrieval-Augmented Generation (RAG)** project built around the **A
 ## 🌐 Links
 
 - 📓 **Kaggle Notebook:** [Agentic RAG System – AgentEval Evaluation](https://www.kaggle.com/code/abdelazizelshourbgy/agentic-rag-system-agenteval-evaluation)
-- 💻 **GitHub Repository:** Add your repository URL here.
-- 🎥 **Demo Video:** Add your recorded run/demo video URL here.
+- 🚀 **Streamlit demo:** [corrective-rag-system](https://corrective-rag-project.streamlit.app/)
+- 🎥 **Demo Video:** [Add your recorded run/demo video URL here](https://github.com/user-attachments/assets/1ebef0d6-b970-4bb1-aac1-5cecf07ab2f6).
 
 ## 📸 Demo
 
@@ -269,7 +269,7 @@ The API expects a compatible `data/corpus.csv` knowledge base. The Streamlit app
 
 Python · Pandas · Scikit-learn · TF-IDF · Streamlit · FastAPI · Kaggle
 
-## 👤 Author
+## 💻 Author
 
 **Abdelaziz Elshourbgy**
 
