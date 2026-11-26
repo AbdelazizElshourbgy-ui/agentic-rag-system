@@ -276,6 +276,7 @@ Python · Pandas · Scikit-learn · TF-IDF · Streamlit · FastAPI · Kaggle
 
 - GitHub: [@AbdelazizElshourbgy-ui](https://github.com/AbdelazizElshourbgy-ui)
 - Kaggle: [abdelazizelshourbgy](https://www.kaggle.com/abdelazizelshourbgy)
+- LinkedIn: [abdelazizelshourbgy](https://www.linkedin.com/in/abdelaziz-elshourbgy-b126a83a2/)
 
 ## 📄 License
 
